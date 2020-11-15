@@ -1,1 +1,2 @@
-# TugasSO-Kelompok13-K1
+# Program Multithread Statistika
+## Kelompok 13 :
