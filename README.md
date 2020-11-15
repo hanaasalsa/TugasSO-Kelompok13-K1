@@ -1,6 +1,4 @@
-# Project SO 
-
-## Program Multithread Statistika
+# Project SO: Program Multithread Statistika
 
 ### Kelompok 13 K1 
 1. Khairunnisa 			      G64180050
